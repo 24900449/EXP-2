@@ -49,15 +49,24 @@ Procedure for Load test:
 
 **Tabulation for Open Circuit Test and Load Test and output:**
 
-![490178877-3b562f0d-6483-4b67-99da-fce06482b127](https://github.com/user-attachments/assets/978e1cf7-a534-4b11-b5ed-b92c9ec8909e)
+![d8619676-0c83-470a-8b1f-2a42fdf41091](https://github.com/user-attachments/assets/4a70e37b-24a1-4599-87de-5d55cf5ff7e3)
 
-![490178972-544137e0-477e-4281-9eaf-f840fd474e5b](https://github.com/user-attachments/assets/06f3efa5-420c-4b58-ba3c-f48c0ecfa1c8)
+![3aea1023-7ace-4416-994f-510b57cec947](https://github.com/user-attachments/assets/5fd72169-9e20-4770-8bb8-04a1234d7a71)
 
-![490179045-bb37443b-09b3-4c87-b502-e83a06149a48](https://github.com/user-attachments/assets/3f4e777f-ba03-4a4c-a9a6-50e9d2f1cb72)
+![d46f0e6c-a73a-48b3-b12c-2eabc944ffdf](https://github.com/user-attachments/assets/b83018d7-96ca-428e-8054-78f1509e179e)
 
-![490179111-c7b1b0c6-1333-4b6f-b575-4fa1aa1ee521](https://github.com/user-attachments/assets/9387ca49-6139-4752-b1d6-f25872a44b60)
+![61fb1de8-8bbc-467c-b73e-5ee1e892ce42](https://github.com/user-attachments/assets/90422970-47f3-471f-a23f-b41d3cb70143)
+
+![180ebbd2-abb1-4b4e-a5aa-fcc65fbd504d](https://github.com/user-attachments/assets/78ffda9a-f5a0-426d-98ba-560145779be2)
 
 
+
+
+![d46f0e6c-a73a-48b3-b12c-2eabc944ffdf](https://github.com/user-attachments/assets/4acca688-0eac-42fa-92a2-c4e2d29f1e2c)
+
+
+
+![180ebbd2-abb1-4b4e-a5aa-fcc65fbd504d](https://github.com/user-attachments/assets/9fe91a58-db71-4f94-90e5-72aadc4deea0)
 
 <img width="1075" height="624" alt="489233731-b0346d73-44a3-4dba-9b1f-d70301cac158" src="https://github.com/user-attachments/assets/8ed741fa-4493-411d-afe9-968c1b40f965" />
 
